@@ -1,0 +1,43 @@
+html {
+    font-family: 'Lobster', cursive;
+    background-color: rgb(255, 149, 0);
+}
+h1 {
+    font-size: 70px;
+    text-align: center;
+}
+h2 {
+    font-size: 25px;
+}
+p, li {
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+body {
+   width: 80%;
+   margin: 0 auto;
+   background-color:rgb(235, 93, 93);
+   padding: 0 20px 20px 20px;
+   border: 3px solid rgb(255, 0, 0);
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 90%;
+}
+.classimg{
+    width: 20%;
+}
+.sport{
+    width:50%;
+}
+.gay{
+    width: 50%;
+}
+.gey{
+    width: 50%;
+}
+.key{
+    width: 50%;
+}
